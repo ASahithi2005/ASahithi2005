@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img align="left" src="https://github.com/ASahithi2005.png" alt="profile" width="280" style="border-radius: 50%; margin-right: 20px;" />
+<img align="left" src="https://github.com/ASahithi2005/ASahithi2005/blob/main/image%20(2).png?raw=true" alt="profile" width="280" style="border-radius: 50%; margin-right: 20px;" />
 
 <hr>
 
