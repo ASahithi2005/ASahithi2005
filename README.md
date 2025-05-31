@@ -10,14 +10,15 @@
   </a>
 </p>
 
-<img align="left" src="https://github.com/ASahithi2005/ASahithi2005/blob/main/image%20(2).png?raw=true" alt="profile" width="280" style="border-radius: 50%; margin-right: 20px;" />
 
-<hr>
+
 
 <pre style="background-color:#0d1117; color:#e1e4e8; padding:15px; border-radius:10px;">
+  <img align="left" src="https://github.com/ASahithi2005/ASahithi2005/blob/main/image%20(2).png?raw=true" alt="profile" width="280" style="border-radius: 50%; margin-right: 20px;" />
+
 ASahithi2005@github
 -------------------------
-  
+
 💻 Full-Stack Developer | DSA & AI/ML Enthusiast
 🎓 BE in Computer Science (2022–26) at UCEOU | 📊 GPA: 9.4 (Till 5th Sem)
 🚀 Passionate about building real-world solutions using Web & AI/ML tech
@@ -25,9 +26,9 @@ ASahithi2005@github
 🧠 Researching Pedestrian Intention Prediction
 💡 Driven by Integrity, Consistency, and a Love for Continuous Learning
 
+  
 </pre>
-
-<hr>
+<br>
 <h2>🚀 Tech Stack</h2>
 
 👨‍💻 Programming Languages  
